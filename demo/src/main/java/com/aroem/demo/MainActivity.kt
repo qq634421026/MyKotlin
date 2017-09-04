@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
     tv.text = "sads"
     change.setOnClickListener {
       tv.text = "diani"
-      tv.textSize = 40f
+      tv.textSize = 44f
     }
   }
 }
