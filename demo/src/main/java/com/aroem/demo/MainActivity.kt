@@ -3,7 +3,6 @@ package com.aroem.demo
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_main.*
-import kotlinx.android.synthetic.main.activity_main.view.*
 
 class MainActivity : AppCompatActivity() {
 
@@ -13,7 +12,6 @@ class MainActivity : AppCompatActivity() {
     tv.text = "sads"
     change.setOnClickListener {
       tv.text = "diani"
-      tv.
       tv.textSize = 20f;
     }
   }
