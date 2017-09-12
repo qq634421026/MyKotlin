@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/zhanghongyu/Documents/MyKotlin/demo/build/intermediates/res/merged/debug/drawable-hdpi/ic_accessibility_pressed.png",
+        "source": "/Users/zhanghongyu/Documents/MyKotlin/demo/src/main/res/drawable-hdpi/ic_accessibility_pressed.png"
+    },
+    {
+        "merged": "/Users/zhanghongyu/Documents/MyKotlin/demo/build/intermediates/res/merged/debug/drawable-hdpi/ic_3d_rotation_normal.png",
+        "source": "/Users/zhanghongyu/Documents/MyKotlin/demo/src/main/res/drawable-hdpi/ic_3d_rotation_normal.png"
+    },
+    {
+        "merged": "/Users/zhanghongyu/Documents/MyKotlin/demo/build/intermediates/res/merged/debug/drawable-hdpi/ic_accessibility_normal.png",
+        "source": "/Users/zhanghongyu/Documents/MyKotlin/demo/src/main/res/drawable-hdpi/ic_accessibility_normal.png"
+    },
+    {
+        "merged": "/Users/zhanghongyu/Documents/MyKotlin/demo/build/intermediates/res/merged/debug/drawable-hdpi/ic_accessibility_disabled.png",
+        "source": "/Users/zhanghongyu/Documents/MyKotlin/demo/src/main/res/drawable-hdpi/ic_accessibility_disabled.png"
+    },
+    {
+        "merged": "/Users/zhanghongyu/Documents/MyKotlin/demo/build/intermediates/res/merged/debug/drawable-hdpi/ic_3d_rotation_disabled.png",
+        "source": "/Users/zhanghongyu/Documents/MyKotlin/demo/src/main/res/drawable-hdpi/ic_3d_rotation_disabled.png"
+    },
+    {
+        "merged": "/Users/zhanghongyu/Documents/MyKotlin/demo/build/intermediates/res/merged/debug/drawable-hdpi/ic_3d_rotation_pressed.png",
+        "source": "/Users/zhanghongyu/Documents/MyKotlin/demo/src/main/res/drawable-hdpi/ic_3d_rotation_pressed.png"
+    }
+]

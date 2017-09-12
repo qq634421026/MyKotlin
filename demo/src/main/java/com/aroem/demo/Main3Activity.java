@@ -12,6 +12,7 @@ public class Main3Activity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main3);
     TextView textView = new TextView(this);
+
   }
 
   public class MyView extends View {

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhanghongyu/Documents/MyKotlin/demo/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zhanghongyu/.android/build-cache/aa7ef4267e7942e1dc349b7b8cdc1e73b77a434c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zhanghongyu/Documents/MyKotlin/demo/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zhanghongyu/.android/build-cache/aa7ef4267e7942e1dc349b7b8cdc1e73b77a434c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
