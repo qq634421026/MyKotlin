@@ -2,7 +2,7 @@
 
 //
 
-###1、Kotlin介绍
+###1、Kotlin介绍 ，；；了；
      [Kotlin](https://kotlinlang.org/)
      Kotlin是一门基于JVM的编程语言，它正成长为Android开发中用于替代Java语言的继承者。Java是世界上使用最多的编程语言之一，当其他编程语言为更加便于开发者使用而不断进化时，Java并没有像预期那样及时跟进。
 
@@ -139,3 +139,4 @@ class MainActivity : AppCompatActivity() {
 ###4、例子下载
 [点击查看](https://github.com/cayden/MyKotlin)
 /////gitgitgit
+
